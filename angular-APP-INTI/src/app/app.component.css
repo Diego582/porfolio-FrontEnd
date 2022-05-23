@@ -1,0 +1,9 @@
+.showDiv {
+    background-color: aqua;
+    height: 200px;
+    width: 500px;
+ }
+ 
+ .hideDiv {
+    display: none;
+ }
